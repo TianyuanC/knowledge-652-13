@@ -2,8 +2,13 @@
 
 In this webinar, I will cover the following topics:
 
--   React Navigation
--   Animation
+-   RN for Web
+-   Navigation
+-   Navigation in React Native
+-   Navigation Events/lifecycle
+-   Navigation Actions
+-   Navigation Params
+-   Quick touch on Animation
 
 They are tentative topics, the real subjects will be decided during this week's one-on-one sessions.
 
@@ -11,4 +16,4 @@ They are tentative topics, the real subjects will be decided during this week's 
 
 [Slides](https://tianyuanc.github.io/knowledge-652-13/#0)
 
-[Video]()
+[Video](https://tianyuanc.github.io/knowledge-652-13/#11)
