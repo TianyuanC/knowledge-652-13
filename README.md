@@ -2,7 +2,7 @@
 
 In this webinar, I will cover the following topics:
 
--   RN for Web
+-   Expo Web
 -   Navigation
 -   Navigation in React Native
 -   Navigation Events/lifecycle
